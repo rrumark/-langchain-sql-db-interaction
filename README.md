@@ -1,4 +1,4 @@
-#Project: LangChain SQL Database Interaction
+# Project: LangChain SQL Database Interaction
 
 Notebook: langchain_sql.ipynb
 
