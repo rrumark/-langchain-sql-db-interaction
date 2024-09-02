@@ -1,4 +1,5 @@
 # Project: LangChain SQL Database Interaction
+![image](https://github.com/user-attachments/assets/bba30714-9131-4531-9eb4-12ccb68a56c2)
 
 Notebook: langchain_sql.ipynb
 
